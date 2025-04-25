@@ -13,6 +13,16 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<name>DogsManagementSystem</name>
 	<description>Demo project for Spring Boot</description>
+	<profiles>
+  <profile>
+    <id>prod</id>
+    <build>
+      <plugins>
+        <!-- Add any plugins/configurations needed for production -->
+      </plugins>
+    </build>
+  </profile>
+</profiles>
 	<url/>
 	<licenses>
 		<license/>
