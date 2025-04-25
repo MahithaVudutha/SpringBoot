@@ -8,7 +8,7 @@
 		<version>3.5.0-SNAPSHOT</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.korrapatiClasses</groupId>
+	<groupId>com.mahitha</groupId>
 	<artifactId>DogsManagementSystem</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>DogsManagementSystem</name>
